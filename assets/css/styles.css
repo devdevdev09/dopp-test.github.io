@@ -410,7 +410,7 @@ a:focus {
 }
 
 .hero-carousel .carousel-inner .heading {
-  font-size: 30px;
+  font-size: 50px;
   line-height: 1.4;
   font-weight: bold;
   margin-top: 0;
@@ -993,7 +993,7 @@ a:focus {
     font-size: 26px;
   }
   .hero-carousel .carousel-inner .item-content-inner {
-    padding-top: 100px;
+    padding-top: 200px;
   }
   .hero-section .figure-holder .figure-image {
     width: inherit;
@@ -1046,7 +1046,7 @@ a:focus {
   }
   .hero-carousel .carousel-inner .item-content-inner {
     max-width: 300px;
-    padding-top: 120px;
+    padding-top: 200px;
   }
 }
 
